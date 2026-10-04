@@ -1,0 +1,8 @@
+Component,Metric,Value
+Supervised,Accuracy,0.9736842105263158
+Supervised,Precision,0.9859154929577465
+Supervised,Recall,0.9722222222222222
+Supervised,F1 Score,0.9790209790209791
+Supervised,ROC-AUC,0.9943783068783069
+Clustering,Selected k,2.0
+Clustering,Best silhouette score,0.4475407630246003
